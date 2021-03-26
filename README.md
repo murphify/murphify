@@ -3,7 +3,7 @@
 - 😱 hi, im murph, but my friends call me retarded.
 - 👀 LEEECH
 - 📫 how to reach me ... dont
-- 🌱 dsc.bio/murkedst (chck the mnth of bday...)
+- 🌱 dsc.bio/murkedst
 
 
 ```diff
