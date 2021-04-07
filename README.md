@@ -7,10 +7,11 @@
 
 
 ```diff
-@@newer to the programming scene.@@
+@@newer to the coding/development scene.@@
 + living near Metro Detroit, in Ann Arbor.
 - 16 years old
-! mostly here to leech and research tools.
+! mostly here to research tools, try and develop tools of my own, and learn language.
+! However, I am fairly fluent in MS-DOS/Powershell.
 # just calm downnnn bro
 # credit to jewdev bc i stole some of his profile LOL 
 ```
