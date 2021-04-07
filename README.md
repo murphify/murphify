@@ -11,7 +11,7 @@
 + living near Metro Detroit, in Ann Arbor.
 - 16 years old
 ! mostly here to research tools, try and develop tools of my own, and learn language.
-! However, I am fairly fluent in MS-DOS/Powershell.
+! however, I am fairly fluent in MS-DOS/Powershell.
 # just calm downnnn bro
 # credit to jewdev bc i stole some of his profile LOL 
 ```
