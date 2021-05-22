@@ -10,7 +10,7 @@
 @@i like trash because i am white@@
 + living near Metty Metty Metty Detroit, in Ann Arbor.
 - i have 2 cats and a dog
-! here experience & b sexy
+! haven't experience & sexy
 ! skilled in scriptkiddie ms-dos
 # just calm downnnn bro
 # credit to jewdev bc i stole some of his profile LOL 
