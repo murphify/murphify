@@ -7,11 +7,11 @@
 
 
 ```diff
-@@newer to the coding/development scene.@@
-+ living near Metro Detroit, in Ann Arbor.
-- 16 years old
-! mostly here to research tools, try and develop tools of my own, and learn language.
-! however, I am fairly fluent in MS-DOS/Powershell.
+@@i like trash because i am white@@
++ living near Metty Metty Metty Detroit, in Ann Arbor.
+- i have 2 cats and a dog
+! here experience & b sexy
+! skilled in scriptkiddie ms-dos
 # just calm downnnn bro
 # credit to jewdev bc i stole some of his profile LOL 
 ```
