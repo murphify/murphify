@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media1.tenor.com/images/46c6b5f0e05afc6bdcb754f3a56383c5/tenor.gif"/>
+<img align="center" height="200" src="https://64.media.tumblr.com/1c515c6b4e072c04e5ad3083d974b3fa/tumblr_pwlcr7YxJj1xvwkewo1_540.gifv"/>
 
 - 😱 hi, im murph, but my friends call me retarded.
 - 👀 LEEECH
